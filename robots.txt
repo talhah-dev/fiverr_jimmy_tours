@@ -1,0 +1,21 @@
+# robots.txt file for Tour Exploration Website
+
+# Allow all web crawlers access to the entire site
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /user/
+
+# Allow Googlebot to access everything
+User-agent: Googlebot
+Disallow: 
+
+# Block web crawlers from accessing specific pages
+Disallow: /private/
+
+# Block specific web crawlers
+User-agent: Baiduspider
+Disallow: /
+
+# Sitemap location
+Sitemap: https://www.yourwebsite.com/sitemap.xml
