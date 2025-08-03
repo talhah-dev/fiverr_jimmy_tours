@@ -2,15 +2,6 @@
 
 Welcome to the **Tour Exploration Website**, a platform designed to offer memorable and adventurous tours. Whether you're planning a business trip or a family vacation, our carefully curated tours will make your journey unforgettable. 
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Project Overview
 
 This project is a tour website where users can explore and book different types of tours with expert guides. It offers various tour options like standard, group, and premium tours, including detailed pricing information and additional services such as private drivers, guides speaking different languages, and lunch options.

@@ -25,7 +25,7 @@ navbar.innerHTML = `
                     </div>
                 </div>
                 <div class="lg:flex hidden">
-                    <a href="/contact.html" class="bg-[#6b3b1f] text-white px-10 py-3.5 rounded-full font-medium">Join
+                    <a href="/book  .html" class="bg-[#6b3b1f] text-white px-10 py-3.5 rounded-full font-medium">Join
                         Now</a>
                 </div>
                 <i data-aos="fade-left" id="mobileMenuBtn"
