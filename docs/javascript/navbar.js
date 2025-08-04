@@ -15,8 +15,14 @@ navbar.innerHTML = `
                             <li><a href="/index.html"
                                     class="hover:opacity-60 tracking-wide  transition-all duration-500">Home</a>
                             </li>
+                            <li><a href="/about.html"
+                                    class="hover:opacity-60 tracking-wide transition-all duration-500">About Us</a>
+                            </li>
                             <li><a href="/tours.html"
                                     class="hover:opacity-60 tracking-wide transition-all duration-500">Our Tours</a>
+                            </li>
+                            <li><a href="/gallery.html"
+                                    class="hover:opacity-60 tracking-wide transition-all duration-500">Gallery</a>
                             </li>
                             <li><a href="/contact.html"
                                     class="hover:opacity-60 tracking-wide transition-all duration-500">Contact Us</a>
@@ -24,7 +30,7 @@ navbar.innerHTML = `
                         </ul>
                     </div>
                 </div>
-                <div class="lg:flex hidden">
+                <div data-aos="fade-left" class="lg:flex hidden">
                     <a href="/book  .html" class="bg-[#6b3b1f] text-white px-10 py-3.5 rounded-full font-medium">Join
                         Now</a>
                 </div>
@@ -43,8 +49,14 @@ navbar.innerHTML = `
                 <li><a href="/index.html"
                         class="hover:opacity-60 text-nowrap tracking-wide  transition-all duration-500">Home</a>
                 </li>
+                <li><a href="/about.html"
+                        class="hover:opacity-60 text-nowrap tracking-wide transition-all duration-500">About Us</a>
+                </li>
                 <li><a href="/tours.html"
                         class="hover:opacity-60 text-nowrap tracking-wide transition-all duration-500">Our Tours</a>
+                </li>
+                <li><a href="/gallery.html"
+                        class="hover:opacity-60 text-nowrap tracking-wide transition-all duration-500">Gallery</a>
                 </li>
                 <li><a href="/contact.html"
                         class="hover:opacity-60 text-nowrap tracking-wide transition-all duration-500">Contact Us</a>

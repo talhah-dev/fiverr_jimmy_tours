@@ -17,7 +17,9 @@ footer.innerHTML = `
 
                 <ul data-aos="fade-up" data-aos-delay="100" class="flex sm:items-center text-[#EAECF0] md:gap-10 gap-5 sm:flex-row flex-wrap flex-col">
                     <li><a href="/index.html" class="transition-all duration-500 hover:opacity-60">Home</a></li>
+                    <li><a href="/about.html" class="transition-all duration-500 hover:opacity-60">About Us</a></li>
                     <li><a href="/tours.html" class="transition-all duration-500 hover:opacity-60">Our Tours</a></li>
+                    <li><a href="/gallery.html" class="transition-all duration-500 hover:opacity-60">Gallery</a></li>
                     <li><a href="/contact.html" class="transition-all duration-500 hover:opacity-60">Contact Us</a></li>
                     <li><a href="/book.html" class="transition-all duration-500 hover:opacity-60">Book Now</a></li>
                 </ul>
